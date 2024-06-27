@@ -5,9 +5,9 @@ import toto
 
 '''
 Références:
+- https://docs.python.org/3/library/unittest.mock.html
 - https://docs.python.org/3/library/unittest.mock-examples.html
-- https://docs.python.org/3/library/unittest.mock-examples.html
-- https://docs.python.org/3/library/unittest.mock-examples.html
+- https://myadventuresincoding.wordpress.com/2011/02/26/python-python-mock-cheat-sheet/
 '''
 
 
